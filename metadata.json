@@ -1,0 +1,6 @@
+{
+  "name": "VendorGuard",
+  "description": "Financial fraud detection, counterfeit banknote inspection, and mobile money verification for Ugandan market vendors.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
